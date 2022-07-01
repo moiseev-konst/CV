@@ -267,3 +267,9 @@ label {
     display: flex;
     flex-direction: row;
 }
+.project {
+    margin-bottom: 20px;
+}
+.project p{
+    font-size: 1.5rem;
+}
